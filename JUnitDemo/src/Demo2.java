@@ -16,4 +16,10 @@ public class Demo2 {
 	public void metho11(){
 		System.out.println("hi");
 	}
+
+	@Test
+	public void metho12(){
+		System.out.println("hi");
+	}
+
 }
