@@ -8,6 +8,12 @@ public class Demo2 {
 		
 		System.out.println("hello");
 		
+		
 	}
 
+	
+	@Test
+	public void metho11(){
+		System.out.println("hi");
+	}
 }
